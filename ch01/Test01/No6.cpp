@@ -24,7 +24,7 @@ int main(void)
                 int nTmp = aList[j];
                 aList[j] = aList[j+1];
                 aList[j+1] = nTmp;
-            
+            }
         }
     }
 
